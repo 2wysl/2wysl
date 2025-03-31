@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=gradient&height=150&section=header&text=WELCOME&fontSize=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!%20🚀&fontSize=30&fontAlignY=30)
+
+<div align="center">
 
 ## 👨‍🎓 About Me  
-🎓 Student | Passionate about Backend & AI Development  
-💡 Interested in Cloud Computing, AI, and Software Engineering  
+🎓 **Student | Passionate about Backend & AI Development**  
+💡 **Interested in Cloud Computing, AI, and Software Engineering**  
 
 ## 🛠️ Tech Stack & Interests  
 ☁️ **Backend & Cloud**: Spring Boot, Java, REST API, MariaDB  
@@ -18,8 +20,11 @@
 ## 🎯 2025 Goals  
 ✅ Build AI-powered applications with LLMs & RAG  
 ✅ Enhance backend & cloud-native development skills  
+✅ Contribute to open-source projects  
 
 ## 🌎 Connect with Me  
-📩 Email: your.email@example.com  
-📍 Location: Seoul, South Korea  
-🚀 Let's innovate together!  
+📩 **Email**: your.email@example.com  
+📍 **Location**: Seoul, South Korea  
+🚀 **Let's innovate together!**  
+
+</div>
