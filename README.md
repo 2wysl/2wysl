@@ -6,6 +6,11 @@
 🎓 **Student | Passionate about Backend & AI Development**  
 💡 **Interested in Cloud Computing, AI, and Software Engineering**  
 
+## 📌 Projects  
+🔹 **IDO_JSPQuiz** – EdTech platform for multisensory reading & motion recognition for kids  
+🔹 **PitchLab** – AI-powered speech analysis & feedback system for better presentation skills  
+🔹 **Bookie** – AI-driven book search, recommendation & review platform  
+
 ## 🛠️ Tech Stack & Tools  
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -40,10 +45,6 @@
   <img src="https://img.shields.io/badge/KPAAS-000000?style=flat&logo=github&logoColor=white"/>
 </p>
 
-## 📌 Projects  
-🔹 **IDO_JSPQuiz** – EdTech platform for multisensory reading & motion recognition for kids  
-🔹 **PitchLab** – AI-powered speech analysis & feedback system for better presentation skills  
-🔹 **Bookie** – AI-driven book search, recommendation & review platform  
 
 ## 🎯 2025 Goals  
 ✅ Build AI-powered applications with LLMs & RAG  
