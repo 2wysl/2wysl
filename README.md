@@ -11,7 +11,7 @@
 🔹 **PitchLab** – AI-powered speech analysis & feedback system for better presentation skills  
 🔹 **Bookie** – AI-driven book search, recommendation & review platform  
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools I Learned and Used
 🎯 Backend & Cloud
 ☁️ Backend:
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -41,11 +41,14 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
-🤖 AI & Data Science
+🤖 AI, Data Science & Big Data
 📊 Languages & Tools:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+
+🗄 Big Data:
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
 
 🏗️ Others
 🔧 Version Control & Deployment:
@@ -55,7 +58,6 @@
 📱 Mobile Development:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-
 ## 🎯 2025 Goals  
 ✅ Build AI-powered applications with LLMs & RAG  
 ✅ Enhance backend & cloud-native development skills  
