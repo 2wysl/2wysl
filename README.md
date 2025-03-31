@@ -60,8 +60,8 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
 
 ## 🏆 Certifications
-📜 SQLD (SQL 개발자 자격증)
-📜 정보처리산업기사 (Industrial Engineer Information Processing) 예정
+**📜 SQLD (SQL 개발자 자격증)**
+**📜 정보처리산업기사 (Industrial Engineer Information Processing) 예정**
 
 ## 🎯 2025 Goals  
 ✅ Build AI-powered applications with LLMs & RAG  
